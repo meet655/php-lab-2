@@ -1,0 +1,21 @@
+<?php
+
+
+$num = -5;
+$abs_num = abs($num);
+echo "The absolute value of $num is $abs_num\n";
+
+$num = 16;
+$sqrt_num = sqrt($num);
+echo "The square root of $num is $sqrt_num\n";
+
+
+$angle = 0.5;
+$sine = sin($angle);
+echo "The sine of $angle radians is $sine\n";
+
+$float_num = 3.7;
+$rounded_num = round($float_num);
+echo "$float_num rounded to the nearest integer is $rounded_num\n";
+
+?>

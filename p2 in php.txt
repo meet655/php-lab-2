@@ -1,0 +1,13 @@
+#include<stdio.h>  
+#include <string.h>    
+int main(){    
+  char ch[11]={'m', 'e', 'e', 't', 'd', 'o', 'd', 'i', 'y', 'a', '\0'};    
+   char ch2[11]="meetdodiya";    
+    
+   printf("Char Array Value is: %s\n", ch);    
+   printf("String Literal Value is: %s\n", ch2);    
+ return 0;    
+}    
+
+Char Array Value is: meetdodiya
+String Literal Value is: meetdodiya
