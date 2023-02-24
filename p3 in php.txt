@@ -19,3 +19,7 @@ $rounded_num = round($float_num);
 echo "$float_num rounded to the nearest integer is $rounded_num\n";
 
 ?>
+The absolute value of -5 is 5 
+The square root of 16 is 4
+The sine of 0.5 radians is 0.4794255386042 
+3.7 rounded to the nearest integer is 4
